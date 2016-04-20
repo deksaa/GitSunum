@@ -29,5 +29,10 @@ EOF CH1
 - Git help eylem
 - Git init
 - Life Cycle
+- Git add,status,commit,clone,diff,push,pull,.gitignore,diff --cached,log,commit --amend,revert,remote,
+show commitid
+
+##Git'te Dallanma(Branch)
+
 
 
